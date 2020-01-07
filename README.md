@@ -32,5 +32,6 @@ chmod +x xclient
 
 cd /home/blockchain/edunet/api
 ./launchapi.sh
+./registerusers.sh 
 
 ```
