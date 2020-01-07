@@ -10,6 +10,8 @@
 cd /home/blockchain/edunet/api
 git clone git@github.com:suddutt1/edunetapi.git .  # DO NOT MISS THE DOT(.)
 chmod +x xclient
+chmod +x *.sh
+
 ```
 
 3. Make sure following /etc/hosts entries are present
@@ -32,6 +34,6 @@ chmod +x xclient
 
 cd /home/blockchain/edunet/api
 ./launchapi.sh
-./registerusers.sh 
+./registerusers.sh
 
 ```
