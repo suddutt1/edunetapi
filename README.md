@@ -8,7 +8,7 @@
 
 ```sh
 cd /home/blockchain/edunet/api
-git clone git@github.com:suddutt1/edunetapi.git .  # DO NOT MISS THE DOT(.)
+git clone https://github.com/suddutt1/edunetapi.git .  # DO NOT MISS THE DOT(.)
 chmod +x xclient
 chmod +x *.sh
 
