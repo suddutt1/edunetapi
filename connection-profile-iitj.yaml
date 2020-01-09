@@ -2,7 +2,7 @@ version: 1.0.0
 client:
   organization: iitj
   logging:
-    level: debug
+    level: error
   peer:
     timeout:
       connection: 100s
