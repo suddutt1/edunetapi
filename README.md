@@ -25,7 +25,7 @@ chmod +x *.sh
 127.0.0.1	peer0.iitj.ac.in    
 127.0.0.1	peer0.edunet.net    
 127.0.0.1	peer0.iitkjp.ac.in  
-127.0.0.1 apihost  
+127.0.0.1     apihost  
 
 ```
 
